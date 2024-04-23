@@ -19,10 +19,10 @@
 //Fireworks
 {"bri":60,"seg":{"col":[[255,160,0],[0,0,0],[0,0,0]],"fx":90,"sx":144,"ix":184,"pal":11}}
 
-//Sports Team: change the colors to your team 
-{"bri":60,"seg":{"col":[[0,8,255],[255,255,0],[0,0,0]],"fx":37,"sx":188,"ix":255,"pal":0}}
+//Sports Team: change the colors to your team (Brazil 1)
+{"bri":60,"seg":{"col":[[0,255,0],[255,255,0],[0,0,0]],"fx":37,"sx":188,"ix":255,"pal":0}}
 
-//Sports Team 2: change the colors to your team
+//Sports Team 2: change the colors to your team (Brazil 2)
 {"bri":60,"seg":{"col":[[0,8,255],[255,255,0],[0,0,0]],"fx":16,"sx":211,"ix":10,"pal":0}}
 
 //Red White Blue
@@ -33,6 +33,21 @@
 
 //Christmas
 {"bri":85,"seg":{"col":[[8,255,0],[255,0,0],[0,0,0]],"fx":105,"sx":70,"ix":196,"pal":0}}
+
+//Christmas 1
+{"bri":183,"seg":{"col":[[17,255,0],[0,0,0],[184,92,0]],"fx":111,"sx":45,"ix":255,"pal":5}}
+
+//Christmas 2
+{"bri":44,"seg":{"col":[[8,255,0],[255,0,30],[252,255,254]],"fx":34,"sx":234,"ix":95,"pal":5}}
+
+//Christmas 3
+{"bri":97,"seg":{"col":[[8,255,0],[255,0,30],[252,255,254]],"fx":49,"sx":191,"ix":255,"pal":5}}
+
+//Christmas 4
+{"bri":255,"seg":{"col":[[8,255,0],[255,0,30],[252,255,254]],"fx":67,"sx":191,"ix":255,"pal":5}}
+
+//Christmas Red White
+{"bri":61,"seg":{"col":[[255,0,0],[255,255,255],[0,0,0]],"fx":49,"sx":255,"ix":111,"pal":3}}
 
 //Valentines Day
 {"bri":60,"seg":{"col":[[255,0,0],[255,0,255],[0,0,0]],"fx":46,"sx":201,"ix":246,"pal":0}}
@@ -48,3 +63,13 @@
 
 //Star Wars Day
 {"bri":97,"seg":{"col":[[0,0,255],[0,0,0],[8,255,0]],"fx":3,"sx":90,"ix":101,"pal":5}}
+
+// April Night
+{"bri":84,"seg":{"col":[[8,255,0],[255,0,30],[252,255,254]],"fx":68,"sx":64,"ix":128,"pal":46}}
+
+//Coxa
+{"bri":60,"seg":{"col":[[0,255,0],[255,255,255],[0,0,0]],"fx":16,"sx":211,"ix":10,"pal":0}}
+
+//Bouncing balls
+{"bri":255,"seg":{"col":[[255,160,0],[0,0,0],[0,0,0]],"fx":91,"sx":137,"ix":225,"pal":7}}
+
